@@ -1,0 +1,11 @@
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\bin\Debug\netstandard2.1\Persistence.deps.json
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\obj\Debug\netstandard2.1\Persistence.csprojAssemblyReference.cache
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfo.cs
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CopyComplete
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\obj\Debug\netstandard2.1\Persistence.dll
+C:\Users\Jermaine Terry Jr\Quarantivities\Persistence\obj\Debug\netstandard2.1\Persistence.pdb
